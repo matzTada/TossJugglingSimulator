@@ -8,7 +8,7 @@ alt="movie on youtube" width=30% border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=02ugpiO9Esw
 " target="_blank"><img src="http://img.youtube.com/vi/02ugpiO9Esw/0.jpg " 
 alt="movie on youtube" width=30% border="10" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_MOVIE_ID_HERE
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=GAEfdtWA9tc
 " target="_blank"><img src="http://img.youtube.com/vi/GAEfdtWA9tc/0.jpg " 
 alt="movie on youtube" width=30% border="10" /></a>  
 [movie "passing" on youtube](https://www.youtube.com/watch?v=--Rm4pnoV2w)  
