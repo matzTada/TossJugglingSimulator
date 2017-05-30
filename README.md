@@ -1,4 +1,4 @@
-#TossJugglingSimulator
+# TossJugglingSimulator
 Cannot handle synchrnous and multiplex throwing yet.  
 But here is Eightring (Infinity stuff, Eight stuff) simulator.
 
